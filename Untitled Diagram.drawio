@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T16:19:31.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2GeqJ-7Snl-mF7Q4n8Le" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T16:21:14.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="G_4EPPu-0CERvj3LJobh" version="20.8.15" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1621" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -44,8 +44,8 @@
         <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Roles &amp;amp; Responsibilities + Central Platform + Ownership&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="430" width="227" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Policies &amp;amp; Standards for Central Platform&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Policies &amp;amp; Standards&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="319.5" y="290" width="215" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Cataloging + Metadata Management + Requirement Management + KPIs&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="430" width="215" height="210" as="geometry" />
