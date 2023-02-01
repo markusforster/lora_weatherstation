@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T16:10:29.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RGhbNRFwbrJwqiI5Ap_U" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T16:15:22.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dwXHcjIPeWyxj-oLhOvj" version="20.8.15" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
     <mxGraphModel dx="1621" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J_vdHsdtML-1TC-3mca8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#004d99;strokeWidth=2;elbow=vertical;" edge="1" parent="1" source="4ec97bd9e5d20128-1" target="4ec97bd9e5d20128-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="405" />
+              <mxPoint x="1260" y="170" />
+              <mxPoint x="427" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1300" height="10" as="geometry" />
+          <mxGeometry x="40" y="400" width="1200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-5" value="Stage 1" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
@@ -31,8 +40,8 @@
         <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
           <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Roles &amp;amp; Responsibilities + Central Platform&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="93" y="430" width="227" height="140" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1&gt;Roles &amp;amp; Responsibilities + Central Platform + Ownership&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="93" y="430" width="227" height="180" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Policies &amp;amp; Standards for Central Platform&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="250" width="215" height="120" as="geometry" />
@@ -40,8 +49,8 @@
         <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Cataloging + Metadata Management + Requirement Management + KPIs&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="430" width="215" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Decentralized Ownership + Data Product Management&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="773" y="220" width="215" height="150" as="geometry" />
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Decentralized Ownership + Data Product Management + Technical Infrastructure&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="772.5" y="180" width="215" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J_vdHsdtML-1TC-3mca8-2" value="&lt;span&gt;Stage 5&lt;/span&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1043" y="340" width="160" height="40" as="geometry" />
@@ -51,6 +60,9 @@
         </mxCell>
         <mxCell id="J_vdHsdtML-1TC-3mca8-4" value="&lt;h1&gt;Communication and Training&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1015.5" y="430" width="215" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="J_vdHsdtML-1TC-3mca8-8" value="&lt;h1&gt;Continuous Improvement&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="215" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
